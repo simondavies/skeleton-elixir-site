@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/vendor
+/node_modules
+composer.phar
+composer.lock
+.php_cs.cache
+/public/css
+/public/js
+/public/imgs
