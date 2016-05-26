@@ -29,10 +29,10 @@ elixir(function(mix) {
 
     .scripts([
         'libs/jquery-2.2.4.min.js'
-    ],jsPath + '/js/libs.min.js')
+    ],jsPath + '/libs.min.js')
     .browserify([
         'App.js'
-    ],jsPath + '/js/App.min.js')
+    ],jsPath + '/App.min.js')
 
     .browserSync({
         proxy : 'skeleton-elixir-site.dev',
